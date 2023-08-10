@@ -3,17 +3,17 @@
 }
 
 .dongari_footer_button {
-    font-size: .9ren;
+    font-size: .9rem;
 }
 
 .dongari_footer {
     text-align:center;
-    margin-top: 2ren;
+    margin-top: 2rem;
 }
 
 .dongari_header {
     text-align:center;
-    margin-bottom: 2ren 0;
+    margin-bottom: 2rem 0;
 }
 
 @media screen and (max-width:500px) {
